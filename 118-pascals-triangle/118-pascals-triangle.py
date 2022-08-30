@@ -15,5 +15,3 @@ class Solution:
             result.append(new)
             last = new
         return result
-    
-        
