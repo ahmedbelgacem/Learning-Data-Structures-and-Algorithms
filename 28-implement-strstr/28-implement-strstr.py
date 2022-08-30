@@ -17,4 +17,3 @@ class Solution:
                     c = needle[0]
             idx = idx + 1
         return -1
-            
