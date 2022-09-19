@@ -6,7 +6,6 @@ class Solution:
         for idx, jump in enumerate(nums):
             if idx <= maximum:
                 maximum = max(maximum, idx + jump)
-                print(maximum)
         if len(nums) - 1 <= maximum:
             return True
         return False
