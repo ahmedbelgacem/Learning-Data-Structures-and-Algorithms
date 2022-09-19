@@ -8,14 +8,14 @@ class Solution:
                 provinces += 1
                 visited.add(i)
             queue = []
-            for j in range(n):
-                if isConnected[i][j] == 1 and j not in visited:
-                    queue.append(j)
-                    visited.add(j)
+            for idx,adj in enumerate(isConnected[i]):
+                if adj and idx not in visited:
+                    queue.append(idx)
+                    visited.add(idx)
             while queue:
                 j = queue.pop(0)
-                for k in range(n):
-                    if isConnected[j][k] == 1 and k not in visited:      
-                        queue.append(k)
-                        visited.add(k)
+                for idx,adj in enumerate(isConnected[j]):
+                    if adj and idx not in visited:      
+                        queue.append(idx)
+                        visited.add(idx)
         return provinces
