@@ -1,5 +1,5 @@
-class Solution(object):
-    def lengthOfLongestSubstring(self, s):
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
         """
         :type s: str
         :rtype: int
