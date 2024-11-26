@@ -1,15 +1,15 @@
 class Solution:
     def findChampion(self, n: int, edges: List[List[int]]) -> int:
-        l = []
-        res = 0
+        l = [0] * n
+        count = 0
         for edge in edges:
-            l.append(edge[1])
+            l[edge[1]] = 1
         for i in range(n):
-            if i not in l:
-                res += 1
-                tmp = i
-        if res == 1:
-            return tmp
+            if not l[i]:
+                count += 1
+                res = i
+        if count == 1:
+            return res
         else:
             return -1
         
