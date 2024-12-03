@@ -1,13 +1,10 @@
 class Solution:
     def addSpaces(self, s: str, spaces: List[int]) -> str:
         idx = 0
-        last = 0
         res = ""
         for space in spaces:
-            while idx < space:
-                idx += 1
-            res += s[last:idx]
+            res += s[idx:space]
             res += " "
-            last = idx
-        res += s[last:]
+            idx = space
+        res += s[space:]
         return res
