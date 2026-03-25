@@ -11,4 +11,16 @@ A repository for my different leet code problems solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/main/1009-complement-of-base-10-integer/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 <!---LeetCode Topics End-->
