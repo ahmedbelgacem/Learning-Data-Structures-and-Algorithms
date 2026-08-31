@@ -6,6 +6,7 @@ A repository for my different leet code problems solutions.
 ## String
 |  |
 | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Bit Manipulation
@@ -24,6 +25,7 @@ A repository for my different leet code problems solutions.
 ## Greedy
 |  |
 | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Sorting
@@ -35,4 +37,8 @@ A repository for my different leet code problems solutions.
 |  |
 | ------- |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Counting
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
