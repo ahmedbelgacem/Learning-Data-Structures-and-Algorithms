@@ -28,6 +28,7 @@ A repository for my different leet code problems solutions.
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
+| [1323-maximum-69-number](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/1323-maximum-69-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Sorting
@@ -39,6 +40,7 @@ A repository for my different leet code problems solutions.
 ## Math
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/1323-maximum-69-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Counting
 |  |
