@@ -18,6 +18,7 @@ A repository for my different leet code problems solutions.
 | ------- |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ A repository for my different leet code problems solutions.
 | [0069-sqrtx](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/main/0069-sqrtx/) | Easy |
 | [1323-maximum-69-number](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/1323-maximum-69-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 ## Counting
 |  |
