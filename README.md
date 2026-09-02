@@ -19,12 +19,14 @@ A repository for my different leet code problems solutions.
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/3668-restore-finishing-order) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3668-restore-finishing-order](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/3668-restore-finishing-order) |
 ## Greedy
 |  |
 | ------- |
