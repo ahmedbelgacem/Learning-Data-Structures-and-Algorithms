@@ -18,6 +18,7 @@ A repository for my different leet code problems solutions.
 |  |
 | ------- |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/3668-restore-finishing-order) |
@@ -34,6 +35,7 @@ A repository for my different leet code problems solutions.
 | [1221-split-a-string-in-balanced-strings](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1323-maximum-69-number](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/1323-maximum-69-number) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2864-maximum-odd-binary-number](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/2864-maximum-odd-binary-number) |
