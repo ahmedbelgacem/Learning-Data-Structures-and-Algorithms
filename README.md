@@ -17,6 +17,7 @@ A repository for my different leet code problems solutions.
 ## Array
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/0561-array-partition) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -32,6 +33,7 @@ A repository for my different leet code problems solutions.
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/0561-array-partition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1323-maximum-69-number](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/1323-maximum-69-number) |
@@ -42,6 +44,7 @@ A repository for my different leet code problems solutions.
 ## Sorting
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/0561-array-partition) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -61,6 +64,7 @@ A repository for my different leet code problems solutions.
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/0561-array-partition) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ahmedbelgacem/Learning-Data-Structures-and-Algorithms/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Binary Search
 |  |
